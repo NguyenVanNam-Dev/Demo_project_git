@@ -23,4 +23,11 @@
 
 		include "view/backend/view_layout_CanBo.php";
 	}
+
  ?>
+<ul>
+    <li>maria ozawa</li>
+    <li>fukuxiaD</li>
+    <li>anukami</li>
+</ul>
+
