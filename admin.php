@@ -5,6 +5,8 @@
 	session_start();
 	//load file config
 	include "config.php";
+	include "config2.php";
+	include "config3.php";
 	//load file model
 	include "application/model.php";
 	include "application/model1.php";
