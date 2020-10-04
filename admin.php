@@ -7,6 +7,9 @@
 	include "config.php";
 	//load file model
 	include "application/model.php";
+	include "application/model1.php";
+	include "application/model2.php";
+	include "application/model3.php";
 	//load file controller
 	include "application/controller.php";
 	//kiem tra, neu user da dang nhap thi hien thi view layout, neu user chua dang nhap thi hien thi MVC login de yeu cau dang nhap
